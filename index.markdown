@@ -3,6 +3,8 @@ layout: default
 theme: minima
 ---
 
+VERSION 2
+
 A numbers guy who seeks to better understand the world through data. Recent graduate of Cal Poly SLO's Statistics program, currently living in the California Bay Area.
 
 Interested in basketball, chess, skateboarding, hip hop, pc games, good food, and fitness. Big believer in efficiency. Also into learning new languages and technologies and exploring them through coding projects.
