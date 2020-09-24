@@ -3,7 +3,7 @@ layout: default
 theme: minima
 ---
 
-VERSION 3
+VERSION 4
 
 A numbers guy who seeks to better understand the world through data. Recent graduate of Cal Poly SLO's Statistics program, currently living in the California Bay Area.
 
