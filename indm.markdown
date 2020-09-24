@@ -2,8 +2,9 @@
 layout: default
 theme: minima
 ---
+{% include image-gallery.html folder="/images" %}
 
-VERSION 4
+VERSION 5
 
 A numbers guy who seeks to better understand the world through data. Recent graduate of Cal Poly SLO's Statistics program, currently living in the California Bay Area.
 
